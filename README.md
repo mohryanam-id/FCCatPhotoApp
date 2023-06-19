@@ -6,7 +6,7 @@ In this course, you'll learn the most common HTML tags by building your own cat 
 
 ## Progress
 
-- [ ] 1 - **h1** element
+- [x] 1 - **h1** element
 - [ ] 2 - **h2** element
 - [ ] 3 - **p** element
 - [ ] 4 - Comment
